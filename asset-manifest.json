@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/realtime-chat-go-react/static/css/main.8d176a66.chunk.css",
+    "main.js": "/realtime-chat-go-react/static/js/main.eb944acc.chunk.js",
+    "main.js.map": "/realtime-chat-go-react/static/js/main.eb944acc.chunk.js.map",
+    "runtime-main.js": "/realtime-chat-go-react/static/js/runtime-main.ebead3f2.js",
+    "runtime-main.js.map": "/realtime-chat-go-react/static/js/runtime-main.ebead3f2.js.map",
+    "static/js/2.849d0b4d.chunk.js": "/realtime-chat-go-react/static/js/2.849d0b4d.chunk.js",
+    "static/js/2.849d0b4d.chunk.js.map": "/realtime-chat-go-react/static/js/2.849d0b4d.chunk.js.map",
+    "static/js/3.8fb2c993.chunk.js": "/realtime-chat-go-react/static/js/3.8fb2c993.chunk.js",
+    "static/js/3.8fb2c993.chunk.js.map": "/realtime-chat-go-react/static/js/3.8fb2c993.chunk.js.map",
+    "index.html": "/realtime-chat-go-react/index.html",
+    "static/css/main.8d176a66.chunk.css.map": "/realtime-chat-go-react/static/css/main.8d176a66.chunk.css.map",
+    "static/js/2.849d0b4d.chunk.js.LICENSE.txt": "/realtime-chat-go-react/static/js/2.849d0b4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebead3f2.js",
+    "static/js/2.849d0b4d.chunk.js",
+    "static/css/main.8d176a66.chunk.css",
+    "static/js/main.eb944acc.chunk.js"
+  ]
+}
