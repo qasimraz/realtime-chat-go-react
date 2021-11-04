@@ -1,8 +1,9 @@
 FROM golang:1.11.1-alpine3.8
-RUN mkdir /app
-RUN apk add git
-ADD . /app/
-WORKDIR /app
+RUN apk add bash ca-certificates git gcc g++ libc-dev
+RUN mkdir /app 
+ADD . /app/ 
+WORKDIR /app 
 RUN go mod download
-RUN go build -o main ./...
-CMD ["/app/main"]
+RUN go build -v
+RUN ls
+CMD ["/app/realtime-chat-go-react"]
