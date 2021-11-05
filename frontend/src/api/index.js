@@ -1,4 +1,5 @@
 var socket = new WebSocket("ws://localhost:8080/ws");
+// var socket = new WebSocket("ws://ip172-18-0-84-c6238bfqf8u000ddje0g-80.direct.labs.play-with-docker.com/ws");
 
 let connect = cb => {
     console.log("Attempting to connect..");
