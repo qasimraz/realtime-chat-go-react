@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/realtime-chat-go-react/static/css/main.8d176a66.chunk.css",
-    "main.js": "/realtime-chat-go-react/static/js/main.d8cb1043.chunk.js",
-    "main.js.map": "/realtime-chat-go-react/static/js/main.d8cb1043.chunk.js.map",
+    "main.js": "/realtime-chat-go-react/static/js/main.b1879751.chunk.js",
+    "main.js.map": "/realtime-chat-go-react/static/js/main.b1879751.chunk.js.map",
     "runtime-main.js": "/realtime-chat-go-react/static/js/runtime-main.ebead3f2.js",
     "runtime-main.js.map": "/realtime-chat-go-react/static/js/runtime-main.ebead3f2.js.map",
     "static/js/2.849d0b4d.chunk.js": "/realtime-chat-go-react/static/js/2.849d0b4d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ebead3f2.js",
     "static/js/2.849d0b4d.chunk.js",
     "static/css/main.8d176a66.chunk.css",
-    "static/js/main.d8cb1043.chunk.js"
+    "static/js/main.b1879751.chunk.js"
   ]
 }
