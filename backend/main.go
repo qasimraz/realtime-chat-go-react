@@ -38,5 +38,5 @@ func main() {
 	fmt.Println("PORT:", os.Getenv("PORT"))
 	fmt.Println("Distributed Chat App v0.01")
 	setupRoutes()
-	http.ListenAndServe(":8080", nil)
+	http.ListenAndServe(":"+os.Getenv("PORT"), nil)
 }
