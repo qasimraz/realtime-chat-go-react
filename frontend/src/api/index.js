@@ -1,4 +1,4 @@
-var socket = new WebSocket("ws://realtime-chat-go-react.herokuapp.com/ws");
+var socket = new WebSocket("wss://realtime-chat-go-react.herokuapp.com/ws");
 
 let connect = cb => {
     console.log("Attempting to connect..");
